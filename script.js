@@ -23,4 +23,4 @@ const logger2 = function () {
 btn.addEventListener("click", logger);
 
 range.addEventListener("input", logger2);
-range.addEventListener("chage", logger2);
+range.addEventListener("change", logger2);
